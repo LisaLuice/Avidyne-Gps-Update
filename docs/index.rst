@@ -5,7 +5,7 @@ How to Login to Peacock TV: A Step-by-Step Guide      //index.rst
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: https://fixmestick.readthedocs.io/en/latest/_images/getsupport.jpg
+.. image:: https://honeywell-gps-update.readthedocs.io/en/latest/_images/corosgpsupdate.jpg
    :alt: My Project Logo
    :width: 350px
    :align: center
